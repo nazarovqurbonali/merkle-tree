@@ -1,6 +1,5 @@
 namespace MerkleTree;
 
-// TX1 TX2 TX3 TX4 -> must be=2^n;  
 public class Tree
 {
    public static List<string> Hashes = [];
