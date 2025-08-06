@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3Ncnicleq4=",
+  "success": true,
+  "projectFilePath": "/home/developer/projects/merkle-tree/C#/C#.csproj",
+  "expectedPackageFiles": [
+    "/home/developer/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
